@@ -5,8 +5,6 @@
 title: Welcome to my website.
 layout: home
 author_profile: true
-header:
-  image: /assets/images/header_image.jpg
 
 ---
 
