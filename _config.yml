@@ -23,8 +23,8 @@ minimal_mistakes_skin: air
 search: true
 name: Rémon Hobbel
 url: "https://remonhob.github.io"
-baseurl: "/my-blog"
-repository: "remonhob/my-blog"
+baseurl: "/my-blog2"
+repository: "remonhob/my-blog2"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
