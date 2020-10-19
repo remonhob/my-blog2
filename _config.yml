@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Made by Rémon
+title: Powershell, Ubiquiti, Network Automation blog
 email: remonhob@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   In this blog I will mainly focus on Powershell, Automation, Azure, Active Directory, Docker & more!
@@ -61,11 +61,11 @@ author:
   name   : "Remon Hobbel"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : 
-    "Support Engineer & HBO IT Student"
+    "IT Support Engineer & HBO IT Student"
   links:
-    - label:  "Ooltgensplaat, Netherlands"
+    - label:  "Middelharnis, Netherlands"
       icon: "fas fa-map-marker"
-      url:  "https://www.google.com/search?client=firefox-b-d&q=Ooltgensplaat"  
+      url:  "https://www.google.com/search?client=firefox-b-d&q=Middelharnis"  
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://remonhob.github.io/my-blog"
